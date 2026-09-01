@@ -1,0 +1,6 @@
+{
+  "name": "인터랙티브 과학 가상 실험실",
+  "description": "중력 천체 역학, 파동 간섭, 기체 분자 운동론, 카오스 진자, 전자기장 로렌츠 힘, 발사체 운동 등 물리·과학 법칙을 실시간으로 시뮬레이션하고 AI와 함께 탐구하는 가상 실험실",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
